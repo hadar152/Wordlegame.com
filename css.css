@@ -6,7 +6,6 @@
     grid-template-columns: 1fr 1fr 1fr 1fr;
     background-color: #b86200;
     border-radius: 4px;
-    box-shadow: 0 3px #643500;
 }
 .letter{
 border-radius: 9%;
@@ -15,11 +14,6 @@ border: none;
 border-radius: 4px;
 box-shadow: 0 3px #181818;
 
-}
-input{
-    border-radius: 2%;
-    border-radius: 4px;
-    box-shadow: 0 3px #663a00;
 }
 body{
 background-image: url("https://m.media-amazon.com/images/I/817Vwv-cwtL.jpg");
@@ -34,16 +28,13 @@ background-size: cover;
     outline: none;
     color: #fff;
     background-color: #947100;
-    border: none;
-    border-radius: 4px;
-    box-shadow: 0 3px #7a6800;
   }
   
   .btn:hover {background-color: #4b3700}
   
   .btn:active {
-    background-color: #804a03;
-    box-shadow: 0 5px #856c00;
     transform: translateY(4px);
 }
+
+
 
